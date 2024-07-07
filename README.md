@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/albatrozx11" target="blank"><img src="https://img.shields.io/twitter/follow/albatrozx11?logo=twitter&style=for-the-badge" alt="albatrozx11" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Unreal Engine**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Graphics programming**
 
-- 👯 I’m looking to collaborate on **genAI projects**
+- 👯 I’m looking to collaborate on **game art**
 
-- 💬 Ask me about **react,unity**
+- 💬 Ask me about **react,unity,unreal engine,3d art**
 
 - 📫 How to reach me **adithyanayithala@gmail.com**
 
